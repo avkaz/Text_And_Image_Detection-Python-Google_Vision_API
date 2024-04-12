@@ -1,0 +1,70 @@
+Color 1:
+	Pixel Fraction: 0.19078651070594788
+	Score: 0.08599293977022171
+	Red: 111.0
+	Green: 73.0
+	Blue: 88.0
+
+Color 2:
+	Pixel Fraction: 0.028838951140642166
+	Score: 0.06219068542122841
+	Red: 154.0
+	Green: 106.0
+	Blue: 91.0
+
+Color 3:
+	Pixel Fraction: 0.00928838923573494
+	Score: 0.04603001847863197
+	Red: 185.0
+	Green: 94.0
+	Blue: 27.0
+
+Color 4:
+	Pixel Fraction: 0.0020224719773977995
+	Score: 0.024157430976629257
+	Red: 230.0
+	Green: 128.0
+	Blue: 22.0
+
+Color 5:
+	Pixel Fraction: 0.013483146205544472
+	Score: 0.023274309933185577
+	Red: 140.0
+	Green: 62.0
+	Blue: 24.0
+
+Color 6:
+	Pixel Fraction: 0.001498127356171608
+	Score: 0.011564421467483044
+	Red: 249.0
+	Green: 175.0
+	Blue: 50.0
+
+Color 7:
+	Pixel Fraction: 0.0004494382010307163
+	Score: 0.005288256332278252
+	Red: 46.0
+	Green: 77.0
+	Blue: 149.0
+
+Color 8:
+	Pixel Fraction: 0.0024719100911170244
+	Score: 0.003674339270219207
+	Red: 144.0
+	Green: 204.0
+	Blue: 227.0
+
+Color 9:
+	Pixel Fraction: 0.04749063774943352
+	Score: 0.06696248054504395
+	Red: 102.0
+	Green: 78.0
+	Blue: 110.0
+
+Color 10:
+	Pixel Fraction: 0.05325842648744583
+	Score: 0.053245507180690765
+	Red: 120.0
+	Green: 75.0
+	Blue: 61.0
+

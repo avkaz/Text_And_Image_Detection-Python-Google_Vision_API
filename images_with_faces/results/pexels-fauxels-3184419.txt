@@ -1,0 +1,41 @@
+Faces:
+Face 1:
+Detection Confidence: 0.953125
+Angry likelihood: Very Unlikely
+Joy likelihood: Likely
+Sorrow likelihood: Very Unlikely
+Surprised likelihood: Very Unlikely
+Headwear likelihood: Very Unlikely
+Face bounding box: (3645,1443) (4147,1443) (4147,2028) (3645,2028)
+Face 2:
+Detection Confidence: 0.97265625
+Angry likelihood: Very Unlikely
+Joy likelihood: Very Likely
+Sorrow likelihood: Very Unlikely
+Surprised likelihood: Very Unlikely
+Headwear likelihood: Very Unlikely
+Face bounding box: (2575,930) (3089,930) (3089,1528) (2575,1528)
+Face 3:
+Detection Confidence: 0.98046875
+Angry likelihood: Very Unlikely
+Joy likelihood: Likely
+Sorrow likelihood: Very Unlikely
+Surprised likelihood: Very Unlikely
+Headwear likelihood: Very Unlikely
+Face bounding box: (4739,1256) (5291,1256) (5291,1898) (4739,1898)
+Face 4:
+Detection Confidence: 0.98828125
+Angry likelihood: Very Unlikely
+Joy likelihood: Very Unlikely
+Sorrow likelihood: Very Unlikely
+Surprised likelihood: Very Unlikely
+Headwear likelihood: Very Unlikely
+Face bounding box: (712,1097) (1248,1097) (1248,1721) (712,1721)
+Face 5:
+Detection Confidence: 0.98828125
+Angry likelihood: Very Unlikely
+Joy likelihood: Very Likely
+Sorrow likelihood: Very Unlikely
+Surprised likelihood: Very Unlikely
+Headwear likelihood: Very Unlikely
+Face bounding box: (1610,1281) (2130,1281) (2130,1885) (1610,1885)

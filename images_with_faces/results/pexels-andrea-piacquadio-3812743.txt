@@ -1,0 +1,81 @@
+Faces:
+Face 1:
+Detection Confidence: 0.99609375
+Angry likelihood: Very Unlikely
+Joy likelihood: Very Likely
+Sorrow likelihood: Very Unlikely
+Surprised likelihood: Very Unlikely
+Headwear likelihood: Very Unlikely
+Face bounding box: (855,36) (1280,36) (1280,530) (855,530)
+Face 2:
+Detection Confidence: 0.9921875
+Angry likelihood: Possibly
+Joy likelihood: Very Unlikely
+Sorrow likelihood: Very Unlikely
+Surprised likelihood: Very Likely
+Headwear likelihood: Very Unlikely
+Face bounding box: (2240,2798) (2722,2798) (2722,3359) (2240,3359)
+Face 3:
+Detection Confidence: 0.99609375
+Angry likelihood: Very Unlikely
+Joy likelihood: Possibly
+Sorrow likelihood: Very Unlikely
+Surprised likelihood: Very Unlikely
+Headwear likelihood: Very Unlikely
+Face bounding box: (1578,2891) (1983,2891) (1983,3363) (1578,3363)
+Face 4:
+Detection Confidence: 0.9921875
+Angry likelihood: Very Unlikely
+Joy likelihood: Very Likely
+Sorrow likelihood: Very Unlikely
+Surprised likelihood: Very Unlikely
+Headwear likelihood: Very Unlikely
+Face bounding box: (876,2163) (1278,2163) (1278,2631) (876,2631)
+Face 5:
+Detection Confidence: 0.96484375
+Angry likelihood: Very Unlikely
+Joy likelihood: Very Unlikely
+Sorrow likelihood: Unlikely
+Surprised likelihood: Very Unlikely
+Headwear likelihood: Very Unlikely
+Face bounding box: (1625,794) (1990,794) (1990,1218) (1625,1218)
+Face 6:
+Detection Confidence: 0.96484375
+Angry likelihood: Very Unlikely
+Joy likelihood: Very Unlikely
+Sorrow likelihood: Likely
+Surprised likelihood: Very Unlikely
+Headwear likelihood: Possibly
+Face bounding box: (181,2157) (579,2157) (579,2620) (181,2620)
+Face 7:
+Detection Confidence: 0.99609375
+Angry likelihood: Very Unlikely
+Joy likelihood: Very Unlikely
+Sorrow likelihood: Unlikely
+Surprised likelihood: Very Unlikely
+Headwear likelihood: Very Unlikely
+Face bounding box: (1593,2138) (1993,2138) (1993,2603) (1593,2603)
+Face 8:
+Detection Confidence: 0.99609375
+Angry likelihood: Very Unlikely
+Joy likelihood: Very Unlikely
+Sorrow likelihood: Very Unlikely
+Surprised likelihood: Very Likely
+Headwear likelihood: Very Unlikely
+Face bounding box: (843,1418) (1313,1418) (1313,1965) (843,1965)
+Face 9:
+Detection Confidence: 0.96484375
+Angry likelihood: Very Unlikely
+Joy likelihood: Possibly
+Sorrow likelihood: Very Unlikely
+Surprised likelihood: Very Unlikely
+Headwear likelihood: Very Unlikely
+Face bounding box: (211,751) (625,751) (625,1232) (211,1232)
+Face 10:
+Detection Confidence: 0.984375
+Angry likelihood: Very Unlikely
+Joy likelihood: Very Unlikely
+Sorrow likelihood: Very Unlikely
+Surprised likelihood: Very Unlikely
+Headwear likelihood: Very Unlikely
+Face bounding box: (3021,2918) (3376,2918) (3376,3332) (3021,3332)

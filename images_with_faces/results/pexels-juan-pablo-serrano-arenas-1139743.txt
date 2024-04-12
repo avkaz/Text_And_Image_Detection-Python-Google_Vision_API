@@ -1,0 +1,9 @@
+Faces:
+Face 1:
+Detection Confidence: 0.98046875
+Angry likelihood: Very Unlikely
+Joy likelihood: Unlikely
+Sorrow likelihood: Very Unlikely
+Surprised likelihood: Very Unlikely
+Headwear likelihood: Very Unlikely
+Face bounding box: (1286,236) (3079,236) (3079,2321) (1286,2321)
