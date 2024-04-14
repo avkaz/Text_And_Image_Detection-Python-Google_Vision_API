@@ -1,0 +1,10 @@
+Description,Vertices values,Score
+Apple,"[x: 2224
+y: 1175
+, x: 2853
+y: 1175
+, x: 2853
+y: 2050
+, x: 2224
+y: 2050
+]",0.6106593012809753

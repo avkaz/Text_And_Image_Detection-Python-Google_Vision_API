@@ -1,0 +1,10 @@
+Description,Vertices values,Score
+The Coca-Cola Company,"[x: 1688
+y: 674
+, x: 2203
+y: 674
+, x: 2203
+y: 2184
+, x: 1688
+y: 2184
+]",0.9152582287788391

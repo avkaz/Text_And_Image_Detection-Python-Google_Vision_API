@@ -1,0 +1,10 @@
+Description,Vertices values,Score
+DHL,"[x: 2466
+y: 3093
+, x: 3032
+y: 3093
+, x: 3032
+y: 3241
+, x: 2466
+y: 3241
+]",0.8258442878723145
