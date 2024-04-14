@@ -1,0 +1,21 @@
+Description,Location,Score
+Rib - Beef & Wine Lisboa,"[lat_lng {
+  latitude: 38.708193
+  longitude: -9.1377949
+}
+]",0.5932145118713379
+Cais Das Colunas,"[lat_lng {
+  latitude: 38.7066677
+  longitude: -9.1361186000000014
+}
+]",0.5926046967506409
+Arco Da Rua Augusta,"[lat_lng {
+  latitude: 38.7084447
+  longitude: -9.1368242999999989
+}
+]",0.5693061947822571
+Lisboa Story Centre,"[lat_lng {
+  latitude: 38.707898899999996
+  longitude: -9.135365199999999
+}
+]",0.5351505875587463

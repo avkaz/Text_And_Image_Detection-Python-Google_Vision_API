@@ -1,0 +1,21 @@
+Description,Location,Score
+Big Ben,"[lat_lng {
+  latitude: 51.5007292
+  longitude: -0.12462540000000003
+}
+]",0.5735074281692505
+Westminster Bridge,"[lat_lng {
+  latitude: 51.500850614962431
+  longitude: -0.12186883127758205
+}
+]",0.5243564248085022
+Parliament Square Garden,"[lat_lng {
+  latitude: 51.5005871
+  longitude: -0.1266911
+}
+]",0.49387606978416443
+Lastminute.com London Eye,"[lat_lng {
+  latitude: 51.503297300000007
+  longitude: -0.11955370000000003
+}
+]",0.48383599519729614

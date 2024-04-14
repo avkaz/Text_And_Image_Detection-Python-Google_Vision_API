@@ -1,0 +1,6 @@
+Description,Location,Score
+Plaça De Gaudí,"[lat_lng {
+  latitude: 41.4044039
+  longitude: 2.1754121
+}
+]",0.5693856477737427
