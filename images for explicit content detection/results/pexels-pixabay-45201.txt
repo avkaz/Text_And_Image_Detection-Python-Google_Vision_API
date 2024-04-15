@@ -1,0 +1,6 @@
+Safe Search Detection Results:
+adult: VERY_UNLIKELY
+spoof: LIKELY
+medical: VERY_UNLIKELY
+violence: VERY_UNLIKELY
+racy: VERY_UNLIKELY
