@@ -11,7 +11,7 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r'Service_account_token.json'
 client = vision.ImageAnnotatorClient()
 
 
-def propertiesDetection(img_folder):
+def LandMarksDetection(img_folder):
     # Create a results folder inside the image folder if it doesn't exist
     result_folder = os.path.join(img_folder, 'results')
     os.makedirs(result_folder, exist_ok=True)
@@ -64,4 +64,4 @@ def propertiesDetection(img_folder):
 img_folder = os.path.abspath("images for landmarks detection")
 
 # Call the propertiesDetection function with the image folder path
-propertiesDetection(img_folder)
+LandMarksDetection(img_folder)

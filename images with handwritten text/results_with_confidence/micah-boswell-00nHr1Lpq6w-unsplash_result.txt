@@ -856,3 +856,99 @@ Block confidence: 0.5564501285552979
 Paragraph confidence: 0.5564501285552979
 Word text: shr (confidence: 0.42009294033050537)
 	Symbol: r (confidence: 0.33411580324172974)
+Block confidence: 0.6212483644485474
+Paragraph confidence: 0.6212483644485474
+Word text: by (confidence: 0.5693304538726807)
+	Symbol: y (confidence: 0.5727423429489136)
+Block confidence: 0.8256334066390991
+Paragraph confidence: 0.8256334066390991
+Word text: symenetrical (confidence: 0.801149845123291)
+	Symbol: l (confidence: 0.811444103717804)
+Block confidence: 0.7962255477905273
+Paragraph confidence: 0.7962255477905273
+Word text: waves (confidence: 0.7709205150604248)
+	Symbol: s (confidence: 0.7993186712265015)
+Block confidence: 0.7624502182006836
+Paragraph confidence: 0.7624502182006836
+Word text: sit (confidence: 0.8384537100791931)
+	Symbol: t (confidence: 0.8981754779815674)
+Block confidence: 0.9480829238891602
+Paragraph confidence: 0.9480829238891602
+Word text: on (confidence: 0.9480829238891602)
+	Symbol: n (confidence: 0.9562088251113892)
+Block confidence: 0.7316476106643677
+Paragraph confidence: 0.7316476106643677
+Word text: relived (confidence: 0.7316476106643677)
+	Symbol: d (confidence: 0.871187150478363)
+Block confidence: 0.7292692065238953
+Paragraph confidence: 0.7292692065238953
+Word text: saw (confidence: 0.7353712320327759)
+	Symbol: w (confidence: 0.8595113158226013)
+Block confidence: 0.5030452013015747
+Paragraph confidence: 0.5030452013015747
+Word text: m (confidence: 0.5030452013015747)
+	Symbol: m (confidence: 0.5030452013015747)
+Block confidence: 0.8373426795005798
+Paragraph confidence: 0.8373426795005798
+Word text: mz (confidence: 0.8373426795005798)
+	Symbol: z (confidence: 0.7193118929862976)
+Block confidence: 0.7882315516471863
+Paragraph confidence: 0.7882315516471863
+Word text: today (confidence: 0.8078182935714722)
+	Symbol: y (confidence: 0.8169306516647339)
+Block confidence: 0.7730772495269775
+Paragraph confidence: 0.6619213819503784
+Word text: , (confidence: 0.5106335878372192)
+	Symbol: , (confidence: 0.5106335878372192)
+Block confidence: 0.6052079200744629
+Paragraph confidence: 0.6052079200744629
+Word text: az (confidence: 0.6052079200744629)
+	Symbol: z (confidence: 0.3878154158592224)
+Block confidence: 0.65318763256073
+Paragraph confidence: 0.65318763256073
+Word text: ма (confidence: 0.8114113807678223)
+	Symbol: а (confidence: 0.9828680753707886)
+Block confidence: 0.9238965511322021
+Paragraph confidence: 0.9238965511322021
+Word text: I (confidence: 0.9238965511322021)
+	Symbol: I (confidence: 0.9238965511322021)
+Block confidence: 0.9710530042648315
+Paragraph confidence: 0.9710530042648315
+Word text: am (confidence: 0.9710530042648315)
+	Symbol: m (confidence: 0.9711285829544067)
+Block confidence: 0.638194739818573
+Paragraph confidence: 0.638194739818573
+Word text: in (confidence: 0.638194739818573)
+	Symbol: n (confidence: 0.5222620964050293)
+Block confidence: 0.8122507333755493
+Paragraph confidence: 0.8122507333755493
+Word text: . (confidence: 0.8853926658630371)
+	Symbol: . (confidence: 0.8853926658630371)
+Block confidence: 0.7776318788528442
+Paragraph confidence: 0.7776318788528442
+Word text: the (confidence: 0.8665173053741455)
+	Symbol: e (confidence: 0.9269351959228516)
+Block confidence: 0.7539628148078918
+Paragraph confidence: 0.7539628148078918
+Word text: ... (confidence: 0.9131394624710083)
+	Symbol: . (confidence: 0.9204282760620117)
+Block confidence: 0.840073823928833
+Paragraph confidence: 0.840073823928833
+Word text: beginning (confidence: 0.840073823928833)
+	Symbol: g (confidence: 0.981257438659668)
+Block confidence: 0.7281923890113831
+Paragraph confidence: 0.7281923890113831
+Word text: zmow (confidence: 0.7281923890113831)
+	Symbol: w (confidence: 0.8873202204704285)
+Block confidence: 0.9620826244354248
+Paragraph confidence: 0.9620826244354248
+Word text: and (confidence: 0.9620826244354248)
+	Symbol: d (confidence: 0.9738225340843201)
+Block confidence: 0.8185467720031738
+Paragraph confidence: 0.8185467720031738
+Word text: That (confidence: 0.7521259784698486)
+	Symbol: t (confidence: 0.8993799090385437)
+Block confidence: 0.5564501285552979
+Paragraph confidence: 0.5564501285552979
+Word text: shr (confidence: 0.42009294033050537)
+	Symbol: r (confidence: 0.33411580324172974)
